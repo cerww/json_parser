@@ -47,7 +47,7 @@ void json_test() {
 
 
 
-int main50() {
+int main() {
 
 	json_array_test();
 	json_test();
